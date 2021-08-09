@@ -1,1 +1,3 @@
-# Shift Manager
+Shift Manager
+
+-[Rin](http://git.com/RinYoda))
