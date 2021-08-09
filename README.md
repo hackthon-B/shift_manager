@@ -1,3 +1,5 @@
-# Shift Manager
+<<<<<< HEAD
+# Shift Manage
 
- - [Go Okumura](https://github.com/GoOkumura)
+- [dan](https://github.com/dan-k4)
+- [Go Okumura](https://github.com/GoOkumura)
