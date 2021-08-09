@@ -1,6 +1,6 @@
 
 Shift Manager
 
-- [Rin](http://git.com/RinYoda))
+- [Rin](http://git.com/RinYoda)
 
-- [Go Okumura](https://github.com/GoOkumura)n
+- [Go Okumura](https://github.com/GoOkumura)
