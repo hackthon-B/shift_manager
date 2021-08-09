@@ -1,6 +1,5 @@
+# Shift Manager
 
-Shift Manager
-
-- [Rin](http://git.com/RinYoda)
-
+- [Rin](https://github.com/RinYoda)
+- [dan](https://github.com/dan-k4)
 - [Go Okumura](https://github.com/GoOkumura)
