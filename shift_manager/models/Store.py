@@ -15,11 +15,8 @@ class Store(models.Model):
     closing_saturday = models.DateTimeField()
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
-    is_active = models.CharField()
-    user = models.ForeignKey(User, on_delete=models.CASCADE)
-    hoped_shift = models.ForeignKey(Hoped_shift, on_delete=models.CASCADE)
-    decided_shift = models.ForeignKey(Decided_shift, on_delete=models.CASCADE)
+    is_active = models.CharField(max_length=50)
 
-         def __str__(self):
-        return self.name
+    def __str__(self):
+     return self.name
 
