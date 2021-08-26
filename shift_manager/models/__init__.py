@@ -1,6 +1,4 @@
-
-from shift_manager.models.User import User 
-from shift_manager.models.Store import Store
-from shift_manager.models.Decided_shift import Decided_shift
-from shift_manager.models.Hoped_shift import Hoped_shift
-
+from shift_manager.models.decided_shift import DecidedShift
+from shift_manager.models.hoped_shift import HopedShift
+from shift_manager.models.store import Store
+from shift_manager.models.user import User
